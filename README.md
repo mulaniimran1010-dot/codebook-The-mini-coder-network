@@ -46,7 +46,6 @@ The main idea is to understand how users are connected with each other and what 
 ```text
 Social-Network-Recommendation-System/
 │
-├── Untitled.ipynb
 ├── show_connection.ipynb
 ├── data_cleaning.ipynb
 ├── susgestion.ipynb
@@ -96,7 +95,7 @@ In the future, I would like to improve this project by adding a simple user inte
 
 ## Author
 
-mr.Imran Mulani
+MR.Imran Mulani
 
 BCA Student | Data Science & AI/ML
 
